@@ -1,0 +1,10 @@
+C:\Users\Nelson B\Desktop\CMPE2800\ComportRead\ComportReader\ComportReader\bin\Debug\ComportReader.exe.config
+C:\Users\Nelson B\Desktop\CMPE2800\ComportRead\ComportReader\ComportReader\bin\Debug\ComportReader.exe
+C:\Users\Nelson B\Desktop\CMPE2800\ComportRead\ComportReader\ComportReader\bin\Debug\ComportReader.pdb
+C:\Users\Nelson B\Desktop\CMPE2800\ComportRead\ComportReader\ComportReader\obj\Debug\ComportReader.csprojResolveAssemblyReference.cache
+C:\Users\Nelson B\Desktop\CMPE2800\ComportRead\ComportReader\ComportReader\obj\Debug\ComportReader.Form1.resources
+C:\Users\Nelson B\Desktop\CMPE2800\ComportRead\ComportReader\ComportReader\obj\Debug\ComportReader.Properties.Resources.resources
+C:\Users\Nelson B\Desktop\CMPE2800\ComportRead\ComportReader\ComportReader\obj\Debug\ComportReader.csproj.GenerateResource.Cache
+C:\Users\Nelson B\Desktop\CMPE2800\ComportRead\ComportReader\ComportReader\obj\Debug\ComportReader.csproj.CoreCompileInputs.cache
+C:\Users\Nelson B\Desktop\CMPE2800\ComportRead\ComportReader\ComportReader\obj\Debug\ComportReader.exe
+C:\Users\Nelson B\Desktop\CMPE2800\ComportRead\ComportReader\ComportReader\obj\Debug\ComportReader.pdb
